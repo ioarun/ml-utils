@@ -1,0 +1,4 @@
+torch==1.6.0
+tensorflow==1.14.0 
+onnx==1.7.0
+onnx2keras==0.0.24
